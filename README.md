@@ -1,6 +1,6 @@
                                                      👋 Hi, I’m @CodeorCook
 - -----------------------------------------------------------------------------------------------------------------------------------
-                                                   Web/App Developer from VietNam
+                                                   Web Developer from VietNam
 
 
 ## 🌐 Socials:
